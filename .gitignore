@@ -1,0 +1,67 @@
+# Build results
+bin/
+obj/
+.vs/
+
+# Publish output
+publish/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Sensitive data
+appsettings.json
+
+# Installer files (Inno Setup)
+installer_output/
+*.exe
+*.msi
+
+# Icon (eðer paylaþmak istemiyorsan)
+# icon.ico
+
+# Visual Studio cache/options
+.vs/
+*.cache
+*.vsidx
+
+# ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin
+$RECYCLE.BIN/
+
+# VS Code
+.vscode/
