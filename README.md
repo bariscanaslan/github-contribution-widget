@@ -104,6 +104,14 @@ Edit appsettings.json:
 
 ## Screenshots
 
+![Widget Screenshot1](screenshots/gcw1.png)
+
+![Widget Screenshot2](screenshots/gcw2.png)
+
+![Widget Screenshot3](screenshots/gcw3.png)
+
+![Widget Screenshot4](screenshots/gcw4.png)
+
 
 ## Author
 
