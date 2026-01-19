@@ -63,5 +63,5 @@ Desktop.ini
 # Recycle Bin
 $RECYCLE.BIN/
 
-# VS Code
-.vscode/
+installer.iss
+build-installer.ps1
